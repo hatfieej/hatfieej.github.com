@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blog | Ed Hatfield's Blog]]></title>
   <link href="http://hatfieej.github.com/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://hatfieej.github.com/"/>
-  <updated>2012-11-05T17:58:02-05:00</updated>
+  <updated>2012-11-05T18:32:04-05:00</updated>
   <id>http://hatfieej.github.com/</id>
   <author>
     <name><![CDATA[Ed Hatfield]]></name>
@@ -42,7 +42,10 @@
 
 <p>The title is derived from the filename so you'll likely want to change that. This is very similar to the post yaml except it doesn't include categories, and you can toggle sharing and comments or remove the footer altogether. If you don't want to show a date on your page, just remove it from the yaml.</p>
 
-<p>Here is a gist.</p>
+<p>
+Here is a gist.
+</p>
+
 
 <p><div><script src='https://gist.github.com/996818.js?file='></script>
 <noscript><pre><code>@@ -590,7 +590,7 @@ class SpritesTest &lt; Test::Unit::TestCase
