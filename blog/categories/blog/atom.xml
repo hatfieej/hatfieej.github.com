@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blog | Ed Hatfield's Blog]]></title>
   <link href="http://hatfieej.github.com/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://hatfieej.github.com/"/>
-  <updated>2012-11-05T17:51:14-05:00</updated>
+  <updated>2012-11-05T17:55:15-05:00</updated>
   <id>http://hatfieej.github.com/</id>
   <author>
     <name><![CDATA[Ed Hatfield]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Second Post]]></title>
+    <link href="http://hatfieej.github.com/blog/2012/11/05/my-second-post/"/>
+    <updated>2012-11-05T17:52:00-05:00</updated>
+    <id>http://hatfieej.github.com/blog/2012/11/05/my-second-post</id>
+    <content type="html"><![CDATA[<p>This is my second post.  It's not much like the first.</p>
+
+<p>It's going to be very short.  :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My first post]]></title>
