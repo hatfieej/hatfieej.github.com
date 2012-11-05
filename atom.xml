@@ -4,7 +4,7 @@
   <title><![CDATA[Ed Hatfield's Blog]]></title>
   <link href="http://hatfieej.github.com/atom.xml" rel="self"/>
   <link href="http://hatfieej.github.com/"/>
-  <updated>2012-11-05T17:55:15-05:00</updated>
+  <updated>2012-11-05T17:58:02-05:00</updated>
   <id>http://hatfieej.github.com/</id>
   <author>
     <name><![CDATA[Ed Hatfield]]></name>
@@ -41,6 +41,19 @@
 <p><img class="left" src="http://hatfieej.github.com/images/xkcd.png" title="XKCD comic" alt="An embedded comic from XKCD"></p>
 
 <p>The title is derived from the filename so you&#8217;ll likely want to change that. This is very similar to the post yaml except it doesn&#8217;t include categories, and you can toggle sharing and comments or remove the footer altogether. If you don&#8217;t want to show a date on your page, just remove it from the yaml.</p>
+
+<p>Here is a gist.</p>
+
+<div><script src='https://gist.github.com/996818.js?file='></script>
+<noscript><pre><code>@@ -590,7 +590,7 @@ class SpritesTest &lt; Test::Unit::TestCase
+  it &quot;should generate a sprite from nested folders&quot; do
+    css = render &lt;&lt;-SCSS
+-     @import &quot;nested/*.png&quot;;
++     @import &quot;nested/**/*.png&quot;;
+      @include all-nested-sprites;
+    SCSS
+    assert_correct css, &lt;&lt;-CSS</code></pre></noscript></div>
+
 ]]></content>
   </entry>
   
