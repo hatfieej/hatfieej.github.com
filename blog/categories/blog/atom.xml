@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blog | Ed Hatfield's Blog]]></title>
   <link href="http://hatfieej.github.com/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://hatfieej.github.com/"/>
-  <updated>2012-11-05T18:50:19-05:00</updated>
+  <updated>2012-11-05T18:52:40-05:00</updated>
   <id>http://hatfieej.github.com/</id>
   <author>
     <name><![CDATA[Ed Hatfield]]></name>
@@ -39,7 +39,7 @@
 <p>Like with the new post task, the default file extension is markdown but you can configure that in the Rakefile. A freshly generated page might look like this.</p>
 
 <p>
-<!-- <img class="left" src="/images/xkcd.png" title="XKCD comic" alt="An embedded comic from XKCD"> -->
+<img class="left" src="/images/xkcd.png" title="XKCD comic" alt="An embedded comic from XKCD">
 </p>
 
 
