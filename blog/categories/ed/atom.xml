@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ed | Ed Hatfield's Blog]]></title>
   <link href="http://hatfieej.github.com/blog/categories/ed/atom.xml" rel="self"/>
   <link href="http://hatfieej.github.com/"/>
-  <updated>2012-11-05T18:54:51-05:00</updated>
+  <updated>2012-11-05T19:16:35-05:00</updated>
   <id>http://hatfieej.github.com/</id>
   <author>
     <name><![CDATA[Ed Hatfield]]></name>
@@ -38,16 +38,12 @@
 
 <p>Like with the new post task, the default file extension is markdown but you can configure that in the Rakefile. A freshly generated page might look like this.</p>
 
-<p>
-<img class="center" src="/images/xkcd.png" title="XKCD comic" alt="An embedded comic from XKCD">
-</p>
-
+<p><a href="http://www.xkcd.org"><img class="center" src="/images/xkcd.png" title="XKCD comic" alt="An embedded comic from XKCD"></a></p>
 
 <p>The title is derived from the filename so you'll likely want to change that. This is very similar to the post yaml except it doesn't include categories, and you can toggle sharing and comments or remove the footer altogether. If you don't want to show a date on your page, just remove it from the yaml.</p>
 
 <div/>
 Here is a gist.
-
 
 <div><script src='https://gist.github.com/996818.js?file='></script>
 <noscript><pre><code>@@ -590,7 +590,7 @@ class SpritesTest &lt; Test::Unit::TestCase
