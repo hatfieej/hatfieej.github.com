@@ -4,7 +4,7 @@
   <title><![CDATA[Ed Hatfield's Blog]]></title>
   <link href="http://hatfieej.github.com/atom.xml" rel="self"/>
   <link href="http://hatfieej.github.com/"/>
-  <updated>2013-01-02T15:49:39-05:00</updated>
+  <updated>2013-02-21T05:30:36-05:00</updated>
   <id>http://hatfieej.github.com/</id>
   <author>
     <name><![CDATA[Ed Hatfield]]></name>
@@ -14,11 +14,29 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Article Three]]></title>
-    <link href="http://hatfieej.github.com/blog/2013/01/02/article-three/"/>
-    <updated>2013-01-02T15:40:00-05:00</updated>
-    <id>http://hatfieej.github.com/blog/2013/01/02/article-three</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[Teachers make the best developers]]></title>
+    <link href="http://hatfieej.github.com/blog/2013/01/04/teachers-make-the-best-developers/"/>
+    <updated>2013-01-04T09:00:00-05:00</updated>
+    <id>http://hatfieej.github.com/blog/2013/01/04/teachers-make-the-best-developers</id>
+    <content type="html"><![CDATA[<p>Intro</p>
+
+<!-- more -->
+
+
+<p>Details</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Falling in love with software again]]></title>
+    <link href="http://hatfieej.github.com/blog/2011/10/05/falling-in-love-with-software-again/"/>
+    <updated>2011-10-05T09:03:00-04:00</updated>
+    <id>http://hatfieej.github.com/blog/2011/10/05/falling-in-love-with-software-again</id>
+    <content type="html"><![CDATA[<p>I blame Bill Cosby.  It was his relentless advertising that convinced by grandfather to buy me a <a href="http://en.wikipedia.org/wiki/TI-99/4A">TI-99/4A</a> for the Christmas of &#8216;82.  You see, those machines booted up to a <a href="http://en.wikipedia.org/wiki/BASIC">BASIC</a> interpreter and came with a thick green programming manual (and a smaller blue one).  <img class="left" src="images/ti-beginners-basic.jpg" width="200" title="'The beginner''s manual'" > <img class="right" src="images/ti-users-reference.jpg" width="200" title="The big manual" > I was only 6, so I started with the blue one.  So, I proceeded to learn how to write &#8221;<a href="http://en.wikipedia.org/wiki/Hello_world">Hello World</a>&#8221;.  That was followed by &#8220;Hello <Name>&#8221; and &#8220;Guess the Number&#8221;.  I soon realized that you could get &#8220;free&#8221; software for your computer typing line-by-line the BASIC code in <a href="http://en.wikipedia.org/wiki/Family_Computing">Family Computing magazine</a>.  These programs were not free.  If it wasn&#8217;t caused by one of the many typos in the magazine, it was my own terrible six-year-old typing skills that caused an error in the program.  So, you learn to debug.  Before you know it, you&#8217;re writing your own software.  Continue that trend and you end up with a Computer Science degree from <a href="http://www.rose-hulman/edu">some nerdy school in Indiana</a>.  So maybe it wasn&#8217;t all Cosby&#8217;s fault.  Maybe I had a natural love for software.</p>
+
+<p><img class="left" src="images/cosby-ad.jpg" width="200" title="'A TI ad featuring Cosby'" ></p>
+
+<p>With the passing of Steve Jobs, I realize how much I admired him and his pursuit of great software.  When I&#8217;d start to fall out of love with software, he was always bringing me back with starry eyed visions of the future.  Each step was exciting.  Ahh, the Apple II&#8230;so simple.  The Mac&#8230;bringing GUIs and publishing to the masses.  The NeXT cubes and pizza boxes&#8230;they were the perfect blend of Mac and Unix (and the system that birthed the world&#8217;s first web server).  Then there was the iMac and the reinvention of NeXTstep as OS X&#8230;computer systems were no longer beige and boring.  The iPod, iPhone and iOS&#8230;starting over, but this time it&#8217;s mobile.  The devices were amazing, but it was the software that brought each one to life.  We still have a long way to go.  I&#8217;m pretty sure Steve&#8217;s vision included more than birds in a slingshot and restaurant check-ins.  It&#8217;s exciting to imagine where software will takes us next.  Steve, thanks for keeping my love alive.</p>
 ]]></content>
   </entry>
   
